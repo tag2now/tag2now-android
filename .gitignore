@@ -1,0 +1,12 @@
+# Signing key: never commit. Losing it means no update can ship under this package.
+*.keystore
+*.jks
+
+# Build outputs
+*.apk
+*.aab
+*.idsig
+build/
+.gradle/
+local.properties
+.idea/

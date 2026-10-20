@@ -1,0 +1,4 @@
+# Bubblewrap checksums twa-manifest.json byte for byte (manifest-checksum.txt),
+# so a CRLF checkout would read as an edit. gradlew is a shell script.
+twa-manifest.json text eol=lf
+gradlew text eol=lf
